@@ -1,3 +1,4 @@
+# リートメーカー！あなたを混沌に…
 ![寿司ゆき:oh_no](https://d1zd1v0cxnbx2w.cloudfront.net/images/sets/sushiyuki/14.png) 
 # 使い方・たったの3ステップ！！
 1. input.txtファイルに変換したい文字を入力する  
